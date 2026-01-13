@@ -70,8 +70,18 @@ A análise demonstrou que o churn está fortemente associado a contratos de curt
 
 ├── README.md                         # Documentação do projeto
 
+Acessos:
+
+Github:
+https://github.com/juscileianoleto/Telecom-X/edit/main/README.md
+
+Linkedin: 
+https://www.linkedin.com/in/juscileia-noleto-b78730282/
+
+
 
 👩‍💻 Autora
 
-Jusciléia Noleto
+Jusciléia Noleto -
+
 Projeto desenvolvido como parte do Challenge de Data Science – Alura.
