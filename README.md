@@ -35,14 +35,6 @@ A partir de técnicas de análise exploratória de dados (EDA), o projeto busca 
 
 * Seaborn
 
-📂 Estrutura do Repositório
-
-├── TelecomX_BR.ipynb        # Notebook principal com a análise completa
-
-├── TelecomX_Data.csv        # Conjunto de dados utilizado no projeto
-
-├── README.md                # Documentação do projeto
-
 
 🔍 Etapas da Análise
 
@@ -69,6 +61,15 @@ A partir de técnicas de análise exploratória de dados (EDA), o projeto busca 
 📈 Conclusão
 
 A análise demonstrou que o churn está fortemente associado a contratos de curto prazo, menor tempo de relacionamento com a empresa e valores mensais elevados. Esses resultados reforçam a importância de estratégias focadas na retenção de clientes nos primeiros meses de contrato e na oferta de planos mais atrativos.
+
+📂 Estrutura do Repositório
+
+├── Telecom X - Análise de Evasão de Clientes           # Notebook principal com a análise completa
+
+├── TelecomX_Data.csv                 # Conjunto de dados utilizado no projeto
+
+├── README.md                         # Documentação do projeto
+
 
 👩‍💻 Autora
 
